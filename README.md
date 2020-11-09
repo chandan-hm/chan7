@@ -1,2 +1,2 @@
 # chan7
-C++ codes
+C++ codes.
